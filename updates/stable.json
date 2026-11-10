@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "database": {
+    "version": "2.59.0.94",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.59.0.94/vehicles.json",
+    "size": 1567006,
+    "sha256": "d325be44e64707f9d4f6ecd2d6e4d5114a177a664b9153e17297f0185f1a6285",
+    "min_app_version": "0.7.1",
+    "notes": "War Thunder data 2.59.0.94"
+  },
+  "database_bundle": {
+    "version": "2.59.0.94",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.59.0.94/vehicle_data_bundle.zip",
+    "size": 23635945,
+    "sha256": "4586403134480606ee359cc16ee5ae9f0c44d7265a327628782219bec4771a46",
+    "min_app_version": "0.7.1",
+    "notes": "Vehicles + image art 2.59.0.94"
+  },
+  "application": {
+    "version": "0.7.1",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.7.1/WarThunderTracker.exe",
+    "size": 43297832,
+    "sha256": "5db15f6c528fd4816c98fee0c5d39c415ff3670e5593200ecf0f1119901c072e",
+    "notes": "WarThunderTracker v0.7.1"
+  }
+}

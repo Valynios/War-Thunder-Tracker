@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "database": {
-    "version": "2.59.0.94",
-    "catalog_revision": 2,
+    "version": "2.61.0.9",
+    "catalog_revision": 1,
     "min_app_version": "0.8.1",
-    "notes": "Complete vehicle catalog and images 2.59.0.94, revision 2",
-    "size": 2277400,
-    "sha256": "b50edb5d899295453569821d6a814df5239c40e7ee482a2c508e9604f262c8da",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.59.0.94-r2/vehicles.json"
+    "notes": "Complete vehicle catalog and images 2.61.0.9, revision 1",
+    "size": 2299188,
+    "sha256": "393307feceabe2835a4de7b4cbbfa137e5e64a406b92443f3b59953d9409dcc6",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.9-r1/vehicles.json"
   },
   "database_bundle": {
-    "version": "2.59.0.94",
-    "catalog_revision": 2,
+    "version": "2.61.0.9",
+    "catalog_revision": 1,
     "min_app_version": "0.8.1",
-    "notes": "Complete vehicle catalog and images 2.59.0.94, revision 2",
-    "size": 32751520,
-    "sha256": "c296e454f1769d3d7c7b627269f8ef40907675d1b0b83be48454156569356938",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.59.0.94-r2/vehicle_data_bundle.zip"
+    "notes": "Complete vehicle catalog and images 2.61.0.9, revision 1",
+    "size": 32979975,
+    "sha256": "ed14b35bbb1353a7e2437b6ff47bb5ad53bddc70d8e4227fd26170f83f6139ef",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.9-r1/vehicle_data_bundle.zip"
   },
   "application": {
     "version": "0.8.1",

@@ -17,10 +17,10 @@
     "notes": "Vehicles + image art 2.59.0.94"
   },
   "application": {
-    "version": "0.7.1",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.7.1/WarThunderTracker.exe",
-    "size": 43297832,
-    "sha256": "5db15f6c528fd4816c98fee0c5d39c415ff3670e5593200ecf0f1119901c072e",
-    "notes": "WarThunderTracker v0.7.1"
+    "version": "0.8.1",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.8.1/WarThunderTracker.exe",
+    "size": 49758228,
+    "sha256": "5245b57327045629a6c5c0f3b8c4689779d34cae71c9458e80c73bef1832150d",
+    "notes": "WarThunderTracker v0.8.1: Helicopters, Naval and safe direct upgrade"
   }
 }

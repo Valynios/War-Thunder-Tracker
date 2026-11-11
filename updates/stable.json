@@ -1,28 +1,28 @@
 {
   "schema": 1,
   "database": {
-    "version": "2.61.0.9",
+    "version": "2.61.0.10",
     "catalog_revision": 1,
-    "min_app_version": "0.8.1",
-    "notes": "Complete vehicle catalog and images 2.61.0.9, revision 1",
-    "size": 2299188,
-    "sha256": "393307feceabe2835a4de7b4cbbfa137e5e64a406b92443f3b59953d9409dcc6",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.9-r1/vehicles.json"
+    "min_app_version": "0.8.2",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.10-r1/vehicles.json",
+    "size": 2302124,
+    "sha256": "54c1985cc60b096190de2117245b55f5f133f393aaa83924cfa4a40ad09fe0b0",
+    "notes": "Mistel 2 identity/Owned migration; M1A1 HC Kate Premium; 2.61.0.10 folder labels."
   },
   "database_bundle": {
-    "version": "2.61.0.9",
+    "version": "2.61.0.10",
     "catalog_revision": 1,
-    "min_app_version": "0.8.1",
-    "notes": "Complete vehicle catalog and images 2.61.0.9, revision 1",
-    "size": 32979975,
-    "sha256": "ed14b35bbb1353a7e2437b6ff47bb5ad53bddc70d8e4227fd26170f83f6139ef",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.9-r1/vehicle_data_bundle.zip"
+    "min_app_version": "0.8.2",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.10-r1/vehicle_data_bundle.zip",
+    "size": 30318120,
+    "sha256": "353fbc7be38ce5dddea4b160ec67c293e1b86b11aa73ddb0aaa17f2917799151",
+    "notes": "Mistel 2 identity/Owned migration; M1A1 HC Kate Premium; 2.61.0.10 folder labels."
   },
   "application": {
-    "version": "0.8.1",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.8.1/WarThunderTracker.exe",
-    "size": 49758228,
-    "sha256": "5245b57327045629a6c5c0f3b8c4689779d34cae71c9458e80c73bef1832150d",
-    "notes": "WarThunderTracker v0.8.1: Helicopters, Naval and safe direct upgrade"
+    "version": "0.8.2",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.8.2/WarThunderTracker.exe",
+    "size": 49960750,
+    "sha256": "2bb24117e14d6bb902e33ab6bec2bd55401f5b4d16b233ba20a18269d9fedf7f",
+    "notes": "Mistel Owned migration and bundled 2.61.0.10 data."
   }
 }

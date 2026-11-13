@@ -2,27 +2,27 @@
   "schema": 1,
   "database": {
     "version": "2.61.0.10",
-    "catalog_revision": 1,
-    "min_app_version": "0.8.2",
     "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.10-r1/vehicles.json",
     "size": 2302124,
     "sha256": "54c1985cc60b096190de2117245b55f5f133f393aaa83924cfa4a40ad09fe0b0",
-    "notes": "Mistel 2 identity/Owned migration; M1A1 HC Kate Premium; 2.61.0.10 folder labels."
+    "min_app_version": "0.8.2",
+    "catalog_revision": 1,
+    "notes": "War Thunder data 2.61.0.10"
   },
   "database_bundle": {
     "version": "2.61.0.10",
-    "catalog_revision": 1,
-    "min_app_version": "0.8.2",
     "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/db-2.61.0.10-r1/vehicle_data_bundle.zip",
-    "size": 30318120,
-    "sha256": "353fbc7be38ce5dddea4b160ec67c293e1b86b11aa73ddb0aaa17f2917799151",
-    "notes": "Mistel 2 identity/Owned migration; M1A1 HC Kate Premium; 2.61.0.10 folder labels."
+    "size": 30311772,
+    "sha256": "ca4132de3e7df6caf564cd1b45987e9397dededa690aa0283766459dd2b102ae",
+    "min_app_version": "0.8.2",
+    "catalog_revision": 1,
+    "notes": "Vehicles + image art 2.61.0.10"
   },
   "application": {
-    "version": "0.8.2",
-    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.8.2/WarThunderTracker.exe",
-    "size": 49960750,
-    "sha256": "2bb24117e14d6bb902e33ab6bec2bd55401f5b4d16b233ba20a18269d9fedf7f",
-    "notes": "Mistel Owned migration and bundled 2.61.0.10 data."
+    "version": "0.8.3",
+    "url": "https://github.com/Valynios/War-Thunder-Tracker/releases/download/v0.8.3/WarThunderTracker.exe",
+    "size": 78288068,
+    "sha256": "fb5759f8bcb9a2aa8546175cb1b74934c36918ac5f6b93a4f2fba73c20d8fd10",
+    "notes": "WarThunderTracker v0.8.3"
   }
 }
